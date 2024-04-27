@@ -1,2 +1,2 @@
 # CodsoftIntern
-This is my Codsoft UI/UX Internship Task-1 
+This is my Codsoft UI/UX Internship Tasks
